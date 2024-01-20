@@ -33,12 +33,14 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://media1.tenor.com/m/437ub_N3A50AAAAd/dancingduck-do-better.gif"  />
-
-###
-<img  height="200" src="https://raw.githubusercontent.com/Cysiuu/Cysiuu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <img align="right" height="150" src="https://media1.tenor.com/m/437ub_N3A50AAAAd/dancingduck-do-better.gif" />
+    </div>
+    <div style="flex: 2;">
+        <img width="80%" height="200" src="https://raw.githubusercontent.com/Cysiuu/Cysiuu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+    </div>
+</div>
 
 ###
 <div align="center">
