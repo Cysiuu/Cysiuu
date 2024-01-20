@@ -7,8 +7,8 @@
 ###
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cysiuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cysiuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cysiuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cysiuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
 </div>
 <br>
 
@@ -35,13 +35,13 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://media1.tenor.com/m/437ub_N3A50AAAAd/dancingduck-do-better.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/437ub_N3A50AAAAd/dancingduck-do-better.gif"  />
 
 ###
 <img width="750" height="200" src="https://raw.githubusercontent.com/Cysiuu/Cysiuu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/krzysztof-kozyra-05b105292/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
