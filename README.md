@@ -1,8 +1,13 @@
-<h2 align="left">Hi 👋!  My name is Krzysztof and I'm from Poland</h2>
-
-###
-
-<h3 align="left">I have a passion for solving problems and learning new technologies. For some time now, I've been pursuing my dream of becoming an Android developer. I know there's a long road ahead, but I'm sure it's going to be an exciting journey!</h3>
+<div style="display: flex; align-items: center; justify-content: center;">
+    <div>
+        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated Image" />
+    </div>
+    <div>
+        <h2 align="left">Hi 👋!  My name is Krzysztof and I'm from Poland</h2>
+        <h3 align="left">I have a passion for solving problems and learning new technologies. For some time now, I've been pursuing my dream of becoming an Android developer. I know there's a long road ahead, but I'm sure it's going to be an exciting journey!</h3>
+        <!-- Other content follows -->
+    </div>
+</div>
 
 ###
 <br>
@@ -13,8 +18,9 @@
 <br>
 
 
-
 <div align="center">
+  <h3 align="center"> I am currently learning </h3>
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
@@ -25,21 +31,17 @@
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="32" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
-  <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="32" />
 </div>
 <br><br><br>
 
+
+
 ###
 
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
-        <img align="right" height="150" src="https://media1.tenor.com/m/437ub_N3A50AAAAd/dancingduck-do-better.gif" />
-    </div>
-    <div style="flex: 2;">
-        <img width="80%" height="200" src="https://raw.githubusercontent.com/Cysiuu/Cysiuu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-    </div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Cysiuu/Cysiuu/output//github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ###
@@ -47,7 +49,7 @@
   <a href="https://www.linkedin.com/in/krzysztof-kozyra-05b105292/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href = "mailto:krzysztof.kozyra021@gmail.com" target="_blank">
+  <a href = "mailto:krzysztof.kozyra021@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  
   </a>
   <a href = "https://t.me/cysiu021">
