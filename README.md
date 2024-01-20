@@ -39,6 +39,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Cysiuu/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="[https://raw.githubusercontent.com/Cysiuu/snk/output/github-contribution-grid-snake-dark.svg]"/>
  
 ###
