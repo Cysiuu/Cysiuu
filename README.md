@@ -7,9 +7,9 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cysiuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="140" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Cysiuu&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D" height="140" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cysiuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cysiuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="130" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Cysiuu&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D" height="130" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cysiuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="130" alt="languages graph"  />
 </div>
 
 ###
@@ -40,6 +40,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Cysiuu/Cysiuu/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/Cysiuu/Cysiuu/output/snake.svg](https://github.com/Cysiuu/Cysiuu/blob/e189bea80b0fc31705403921ab05c541e97b2f23/%2Cgithub/workflows/snake.yml)https://github.com/Cysiuu/Cysiuu/blob/e189bea80b0fc31705403921ab05c541e97b2f23/%2Cgithub/workflows/snake.yml" alt="Snake animation" />
 
 ###
