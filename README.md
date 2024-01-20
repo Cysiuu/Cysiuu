@@ -38,5 +38,5 @@
 <img align="right" height="250" src="https://media1.tenor.com/m/437ub_N3A50AAAAd/dancingduck-do-better.gif"  />
 
 ###
-<img src="https://raw.githubusercontent.com/Cysiuu/Cysiuu/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Cysiuu/Cysiuu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
  
