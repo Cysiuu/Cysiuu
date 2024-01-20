@@ -39,6 +39,10 @@
 
 ###
 
-<img src="[https://raw.githubusercontent.com/Cysiuu/Cysiuu/output/snake.svg](https://github.com/Cysiuu/Cysiuu/blob/e189bea80b0fc31705403921ab05c541e97b2f23/%2Cgithub/workflows/snake.yml)https://github.com/Cysiuu/Cysiuu/blob/e189bea80b0fc31705403921ab05c541e97b2f23/%2Cgithub/workflows/snake.yml" alt="Snake animation" />
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Cysiuu/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+</picture>
 ###
