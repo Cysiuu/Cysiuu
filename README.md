@@ -38,6 +38,5 @@
 <img align="right" height="250" src="https://media1.tenor.com/m/437ub_N3A50AAAAd/dancingduck-do-better.gif"  />
 
 ###
-<img src="[https://github.com/Cysiu/Cysiu/blob/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/Cysiuu/Cysiuu/e5ab024d2d6b0a51e96fda824189c9957f202394/github-contribution-grid-snake-dark.svg)https://raw.githubusercontent.com/Cysiuu/Cysiuu/e5ab024d2d6b0a51e96fda824189c9957f202394/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Cysiuu/Cysiuu/output/snake.svg" alt="Snake animation" />
  
-###
