@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; justify-content: center;">
+<div style="align: center">
     <div>
         <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated Image" />
     </div>
@@ -36,7 +36,7 @@
   <img width="28" />
 
 
-<div style="float:left;">
+<div>
 <h3>and listening to</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312yyajmw4ofw6bks4cldfuwzl6m&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/Cysiuu/spotify-github-profile)
