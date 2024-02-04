@@ -19,7 +19,7 @@
 
 
 <div align="center">
-  <h3 align="center"> I am currently learning </h3>
+  <h2> I am currently learning </h2>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="32" />
@@ -33,7 +33,13 @@
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="32" />
+
+<h3>and listening to</h3>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312yyajmw4ofw6bks4cldfuwzl6m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=4e81b1&bar_color_cover=false)](https://github.com/Cysiuu/spotify-github-profile)
+
 </div>
+<br>
 
 ###
 
@@ -53,3 +59,5 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
+      
+
