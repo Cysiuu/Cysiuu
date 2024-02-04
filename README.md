@@ -20,7 +20,7 @@
 <div>
 
 <div align="center">
-  <h2> I am currently learning </h2>
+  <h2> I'm currently learning </h2>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="28" />
