@@ -2,7 +2,6 @@
 
 ###
 
-<br>
 <h3 align="center">Explore my universe!</h2>
 
 ###
