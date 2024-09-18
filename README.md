@@ -1,4 +1,4 @@
-<img align="right" height="500" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW84M215ZHRjMGxub2RoMHF0eHR6NXZvZ3E4Nmt3eGx4MTF6MG9lZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tdC6N1RKNp4swre2JY/giphy.webp"  />
+<img align="right" height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW84M215ZHRjMGxub2RoMHF0eHR6NXZvZ3E4Nmt3eGx4MTF6MG9lZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tdC6N1RKNp4swre2JY/giphy.webp"  />
 
 ###
 
@@ -36,7 +36,9 @@
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=Cysiuu&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1"        height="150" alt="stats graph"/>
-  <img src="https://streak-stats.demolab.com?user=Cysiuu&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Cysiuu&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
