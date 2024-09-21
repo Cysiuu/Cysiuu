@@ -1,6 +1,6 @@
 
 
-<img align="right" height="350" width="400" src="images/stack.png"  />
+<img align="right" height="350" width="400" src="images/open-source-tux.png"  />
 
 ###
 
