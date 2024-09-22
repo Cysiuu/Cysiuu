@@ -12,7 +12,6 @@
   
   [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0d1117&logoColor=white&labelColor=0d1117&style=for-the-badge)](https://www.linkedin.com/in/krzysztof-kozyra-05b105292/)
   [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0d1117&logoColor=white&labelColor=0d1117&style=for-the-badge)](mailto:krzysztof.kozyra021@gmail.com)
-  [![Telegram](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0d1117&logoColor=white&labelColor=0d1117&style=for-the-badge)](https://t.me/cysiu021)
   
 </div>
 
