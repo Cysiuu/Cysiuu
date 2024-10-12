@@ -1,23 +1,16 @@
+# **Hello visitor!**
 
+I'm Cysiuu!
 
-<img align="right" height="350" width="400" src="images/open-source-tux.png"  />
+**I like to keep things simple, elegant and ... creative :)**
 
-###
+If you like to know more about me, click the button below to run ***About me*** code on JDoodle!
 
-<h3 align="center">Hello visitor! Im Cysiuu</h3>
-
-###
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0d1117&logoColor=white&labelColor=0d1117&style=for-the-badge)](https://www.linkedin.com/in/krzysztof-kozyra-05b105292/)
-  [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0d1117&logoColor=white&labelColor=0d1117&style=for-the-badge)](mailto:krzysztof.kozyra021@gmail.com)
-  
-</div>
-
-
-###
+[![Run Code on JDoodle](https://img.shields.io/badge/Run%20Code-JDoodle-blue?style=for-the-badge&logo=java)](https://www.jdoodle.com/ia/1l8t)
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Cysiuu&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1"        height="150" alt="stats graph"/>
+
+| ![Cysiuu's Stats](https://github-readme-stats.vercel.app/api?username=Cysiuu&theme=dark&show_icons=true&hide_border=true&count_private=true) | ![Cysiuu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cysiuu&theme=dark&hide_border=true) |
+|---|---|
+
 </div>
