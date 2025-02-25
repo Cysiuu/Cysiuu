@@ -3,7 +3,7 @@
   
 # **Hello visitor!**
 
-## I'm Cysiuu!
+## I'm Krzysztof 
 
 **I like to keep things simple, elegant, and... creative :)**
 
